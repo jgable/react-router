@@ -1,0 +1,17 @@
+{
+  "name": "react-router",
+  "version": "1.0.0",
+  "description": "A complete routing library for React.js",
+  "authors": [
+    "Ryan Florence",
+    "Michael Jackson"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rackt/react-router.git"
+  },
+  "homepage": "https://rackt.github.io/react-router/",
+  "bugs": "https://github.com/rackt/react-router/issues",
+  "main": "umd/ReactRouter.js"
+}
